@@ -8,5 +8,5 @@
 
 共计爬取了豆瓣电影网影视剧相关数据总计约8万多条，数据截图如下：
 
-
+![image](https://github.com/masterwugui/DoubanMovieCrawler/blob/master/images/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%98%E5%82%A8%E6%95%B0%E6%8D%AE.png)
 
